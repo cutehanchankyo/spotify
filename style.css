@@ -1,0 +1,65 @@
+.la{
+    margin-top: 50px;
+}
+.spotify{
+    text-align: center;
+}
+.button{
+    margin-top: 10px;
+    width: 450px;
+    height: 40px;
+    background-color: rgb(0, 28, 239);
+    border: 0;
+    outline: 1;
+}
+.button2{
+    margin-top: 10px;
+    width: 450px;
+    height: 40px;
+    background-color: rgb(0, 0, 0);
+    border: 0;
+    outline: 1;
+}
+.button3{
+    margin-top: 10px;
+    width: 450px;
+    height: 40px;
+    background-color: rgb(255, 255, 255);
+    border: 0;
+    outline: 1;
+    margin-bottom: 10px;
+}
+.save1{
+    width: 450px;
+    height: 40px;
+}
+.la2{
+    margin-top: 20px;
+    margin-right: 250px;
+}
+.save2{
+    width: 450px;
+    height: 40px;
+}
+.la3{
+    margin-top: 20px;
+    margin-right: 400px;
+}
+.la4{
+    margin-top: 10px;
+    margin-right: 300px;
+}
+.button4{
+    height: 50px;
+    width: 150px;
+    margin-left: 180px;
+}
+.line{
+    width: 480px;
+    margin-left: 520px;
+}
+.button5{
+    margin-top: 30px;
+    width: 450px;
+    height: 40px;
+}
